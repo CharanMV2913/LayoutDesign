@@ -1,0 +1,23 @@
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "NOR_Gate schematic standar_cell" "NOR_Gate layout standar_cell"
+N A A
+N B B
+N VDD VDD
+N VSS VSS
+N Y Y
+I PM1 avD10_2
+I PM0 avD10_1
+I NM1 avD2_2
+I NM0 avD2_1
+

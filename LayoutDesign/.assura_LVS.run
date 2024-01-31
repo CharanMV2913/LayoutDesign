@@ -1,0 +1,3 @@
+#!/bin/sh -f
+/home/installs/ASSURA41/tools.lnx86/assura/bin/assura /home/vlsi_S7/LayoutDesign/AND_gate.rsf -cdslib /home/vlsi_S7/LayoutDesign/cds.lib -gui
+exit $?

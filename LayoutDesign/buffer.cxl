@@ -1,0 +1,23 @@
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "buffer schematic standar_cell" "buffer layout standar_cell"
+N net1 avC5
+N VDD VDD
+N VSS VSS
+N A A
+N Y Y
+I NM1 avD2_2
+I NM0 avD2_1
+I PM1 avD10_2
+I PM0 avD10_1
+

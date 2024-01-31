@@ -1,0 +1,2 @@
+SOFTINCLUDE /home/installs/IC618/share/cdssetup/cds.lib
+DEFINE standar_cell /home/vlsi_S7/LayoutDesign/standar_cell

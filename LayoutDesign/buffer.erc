@@ -1,0 +1,22 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'buffer layout standar_cell':
+  info: Assign pin label "VSS" at (2.5450, 0.4650) to layer `metal1_conn'.
+  info: Assign pin label "A" at (2.5450, 1.8200) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (2.5450, 2.9900) to layer `metal1_conn'.
+  info: Assign pin label "Y" at (4.5350, 1.6950) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'buffer layout standar_cell':
+  info: Assign pin label "VSS" at (2.5450, 0.4650) to layer `metal1_conn'.
+  info: Assign pin label "A" at (2.5450, 1.8200) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (2.5450, 2.9900) to layer `metal1_conn'.
+  info: Assign pin label "Y" at (4.5350, 1.6950) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

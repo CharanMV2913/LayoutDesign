@@ -1,0 +1,24 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'NOR_Gate layout standar_cell':
+  info: Assign pin label "VSS" at (2.9450, 0.5250) to layer `metal1_conn'.
+  info: Assign pin label "A" at (2.8900, 1.7850) to layer `metal1_conn'.
+  info: Assign pin label "Y" at (4.2150, 1.5500) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (2.9600, 2.8100) to layer `metal1_conn'.
+  info: Assign pin label "B" at (4.4200, 1.7700) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'NOR_Gate layout standar_cell':
+  info: Assign pin label "VSS" at (2.9450, 0.5250) to layer `metal1_conn'.
+  info: Assign pin label "A" at (2.8900, 1.7850) to layer `metal1_conn'.
+  info: Assign pin label "Y" at (4.2150, 1.5500) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (2.9600, 2.8100) to layer `metal1_conn'.
+  info: Assign pin label "B" at (4.4200, 1.7700) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

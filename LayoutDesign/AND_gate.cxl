@@ -1,0 +1,26 @@
+C g45n1svt(MOS) g45n1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C g45p1svt(MOS) g45p1svt(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "AND_gate schematic standar_cell" "AND_gate layout standar_cell"
+N net2 avC7
+N A A
+N B B
+N VDD VDD
+N VSS VSS
+N Y Y
+I PM2 avD10_3
+I PM1 avD10_2
+I PM0 avD10_1
+I NM2 avD2_3
+I NM1 avD2_2
+I NM0 avD2_1
+

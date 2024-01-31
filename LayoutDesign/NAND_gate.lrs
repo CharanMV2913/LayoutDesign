@@ -1,0 +1,35 @@
+@(#)$CDS: nvn_64 version av4.1:Production:dfII6.1.8-64b:IC6.1.8-64b.500.17 03/26/2021 10:27 (sjfhw780) $
+sub-version 4.1_USR6_HF11, integ signature 2021-03-26-0950
+run on vvcevpn at Fri Dec 15 20:39:42 2023
+
+Schematic                        | Layout                        | Status
+-------------------------------------------------------------------------------
+NAND_gate schematic standar_cell | NAND_gate layout standar_cell | matched  
+
+Schematic and Layout Match
+
+Schematic:
+  Library:standar_cell
+  Cell   :NAND_gate
+  View   :schematic
+
+Layout:
+  Library:standar_cell
+  Cell   :NAND_gate
+  View   :layout
+
+
+
+Extraction  Information
+--------------------
+     0 cells have 0 mal-formed device problems
+     0 cells have 0 label short problems
+     0 cells have 0 label open problems
+
+Mismatch  Information
+--------------------
+     0 cells have 0 Net mismatches
+     0 cells have 0 Device mismatches
+     0 cells have 0 Pin mismatches
+     0 cells have 0 Parameter mismatches
+

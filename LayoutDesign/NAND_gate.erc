@@ -1,0 +1,24 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'NAND_gate layout standar_cell':
+  info: Assign pin label "VSS" at (5.1600, 1.5050) to layer `metal1_conn'.
+  info: Assign pin label "A" at (5.0100, 2.3300) to layer `metal1_conn'.
+  info: Assign pin label "B" at (5.8300, 2.2550) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (5.1050, 3.0050) to layer `metal1_conn'.
+  info: Assign pin label "Y" at (6.6150, 2.4600) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'NAND_gate layout standar_cell':
+  info: Assign pin label "VSS" at (5.1600, 1.5050) to layer `metal1_conn'.
+  info: Assign pin label "A" at (5.0100, 2.3300) to layer `metal1_conn'.
+  info: Assign pin label "B" at (5.8300, 2.2550) to layer `metal1_conn'.
+  info: Assign pin label "VDD" at (5.1050, 3.0050) to layer `metal1_conn'.
+  info: Assign pin label "Y" at (6.6150, 2.4600) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
